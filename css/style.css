@@ -10860,6 +10860,7 @@ static-hero-s4
 }/*# sourceMappingURL=style.css.map */
 
 
-.swiper-button-prev, .swiper-button-next{
+.wpo-hero-slider-s2 .swiper-button-prev:before,
+.wpo-hero-slider-s2 .swiper-button-next:before{
   display: none;
 }
