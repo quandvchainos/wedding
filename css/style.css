@@ -10864,3 +10864,13 @@ static-hero-s4
 .wpo-hero-slider-s2 .swiper-button-next:before{
   display: none;
 }
+
+.swiper-button-next:after, .swiper-button-prev:after {
+    font-family: swiper-icons;
+    font-size: 30px !important;
+    text-transform: none!important;
+    letter-spacing: 0;
+    text-transform: none;
+    font-variant: initial;
+    line-height: 1;
+}
