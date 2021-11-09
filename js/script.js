@@ -269,7 +269,7 @@
     -------------------------------------------*/
     function preloader() {
         if($('.preloader').length) {
-            $('.preloader').delay(50).fadeOut(100, function() {
+            $('.preloader').delay(100).fadeOut(500, function() {
 
                 //active wow
                 wow.init();
@@ -968,7 +968,7 @@
     ==========================================================================*/
         $(window).on('load', function() {
 
-            // preloader();  
+            preloader();  
 
             sortingGallery();
             
