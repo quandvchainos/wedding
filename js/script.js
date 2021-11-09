@@ -968,7 +968,7 @@
     ==========================================================================*/
         $(window).on('load', function() {
 
-            preloader();  
+            // preloader();  
 
             sortingGallery();
             
