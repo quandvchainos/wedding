@@ -5213,7 +5213,7 @@ static-hero-s4
 .wpo-portfolio-section-s2 .img-holder:hover:before,
 .wpo-portfolio-section-s3 .img-holder:hover:before,
 .wpo-portfolio-section-s4 .img-holder:hover:before {
-  opacity: 1;
+  opacity: 0.3;
   transform: scale(1);
 }
 
